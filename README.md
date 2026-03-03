@@ -28,6 +28,18 @@ The system tracks hand landmarks and interprets specific finger gestures to perf
 ✔ Screenshot Capture
 ✔ Real-time Hand Tracking
 ✔ Single-Hand Detection
+
+🎯 So Total Finger Usage
+| Fingers Used        | Action       |
+| ------------------- | ------------ |
+| Index only          | Move         |
+| Index bend          | Left Click   |
+| Middle bend         | Right Click  |
+| Index + Middle bend | Double Click |
+| Thumb + Index pinch | Screenshot   |
+| Index + Middle up   | Scroll Up    |
+| Ring + Pinky up     | Scroll Down  |
+
 🧠 How It Works
 
 1.MediaPipe detects 21 hand landmarks.
